@@ -12,6 +12,11 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello world!");
             Console.ReadKey();
+            iClass c;
+            c = 5;
+            Console.WriteLine(c);
+            Console.ReadKey();
+
         }
     }
 }
