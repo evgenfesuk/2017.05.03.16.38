@@ -42,9 +42,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="iClass.cs" />
+    <Compile Include="book.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="publication.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
